@@ -3,7 +3,7 @@ def add_2_numbers(a, b):
     return (a + b)
 
 def sub_2_numbers(a, b):
-    return a - b
+    return (a - b)
 
 
 def test_add_2_numbers():
